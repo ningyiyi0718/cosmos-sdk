@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	btcSecp256k1 "github.com/btcsuite/btcd/btcec"
+	btcSecp256k1 "github.com/ningyiyi0718/btcd/btcec"
 	"github.com/stretchr/testify/require"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/btcsuite/btcd/btcec"
+	"github.com/ningyiyi0718/btcd/btcec"
 	"github.com/pkg/errors"
 
 	tmbtcec "github.com/tendermint/btcd/btcec"

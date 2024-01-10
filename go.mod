@@ -6,7 +6,6 @@ require (
 	github.com/99designs/keyring v1.1.6
 	github.com/armon/go-metrics v0.3.10
 	github.com/bgentry/speakeasy v0.1.0
-	github.com/btcsuite/btcd v0.22.0-beta
 	github.com/coinbase/rosetta-sdk-go v0.7.0
 	github.com/confio/ics23/go v0.6.6
 	github.com/cosmos/btcutil v1.0.4
@@ -27,6 +26,7 @@ require (
 	github.com/jhump/protoreflect v1.9.0
 	github.com/magiconair/properties v1.8.5
 	github.com/mattn/go-isatty v0.0.14
+	github.com/ningyiyi0718/btcd v0.22.0-beta-2401101143-37639625
 	github.com/otiai10/copy v1.6.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.12.1
@@ -57,6 +57,7 @@ require (
 	github.com/DataDog/zstd v1.4.5 // indirect
 	github.com/Workiva/go-datastructures v1.0.53 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
+	github.com/btcsuite/btcd v0.22.0-beta // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/cosmos/ledger-go v0.9.2 // indirect

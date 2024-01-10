@@ -10,7 +10,7 @@ import (
 
 	"github.com/tendermint/tendermint/crypto"
 
-	"github.com/btcsuite/btcd/btcec"
+	"github.com/ningyiyi0718/btcd/btcec"
 	tmcoretypes "github.com/tendermint/tendermint/rpc/core/types"
 
 	crgtypes "github.com/cosmos/cosmos-sdk/server/rosetta/lib/types"
